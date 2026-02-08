@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Skill Creator"
+  short_description: "Create spec-compliant skills for any agent"
+  default_prompt: "Use $agent-skill-creator to design a portable Agent Skill from these requirements."

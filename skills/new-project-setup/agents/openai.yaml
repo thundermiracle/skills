@@ -1,0 +1,4 @@
+interface:
+  display_name: "New Project Setup"
+  short_description: "Help with New Project Setup tasks"
+  default_prompt: "Use $new-project-setup to decide the stack and bootstrap a new project."
