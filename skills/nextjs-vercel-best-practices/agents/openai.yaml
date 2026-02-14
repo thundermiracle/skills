@@ -1,0 +1,4 @@
+interface:
+  display_name: "Next.js Vercel Best Practices"
+  short_description: "Official Next.js and Vercel deployment best practices"
+  default_prompt: "Apply official Next.js and Vercel best practices to this task."
