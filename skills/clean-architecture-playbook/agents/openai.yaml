@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Architecture Playbook"
+  short_description: "Summarize and apply clean architecture conventions"
+  default_prompt: "Summarize clean architecture best practices and layer conventions, and include stack-specific implementation patterns when needed."
